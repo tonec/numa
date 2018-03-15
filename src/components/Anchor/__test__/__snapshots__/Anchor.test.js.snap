@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Anchor (snapshot) renders according to snapshot when disabled 1`] = `
+<a
+  className="test-class-name"
+  href="http://www.example.com"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  style={
+    Object {
+      "pointerEvents": "none",
+    }
+  }
+  tabIndex={-1}
+>
+  Link text
+</a>
+`;
+
+exports[`Anchor (snapshot) renders according to snapshot when enabled 1`] = `
+<a
+  className="test-class-name"
+  href="http://www.example.com"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  Link text
+</a>
+`;

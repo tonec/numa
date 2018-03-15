@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login (snapshot) renders according to snapshot 1`] = `
+<OneColumnThin
+  className=""
+  offset={9}
+  span={6}
+  title="Login"
+>
+  <Connect(ReduxForm) />
+</OneColumnThin>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Numerals (snapshot) renders according to snapshot 1`] = `
+<OneColumnThin
+  className=""
+  offset={9}
+  span={6}
+  title="Numerals"
+>
+  <Input
+    disabled={false}
+    placeholder="Arabic"
+    prefixCls="ant-input"
+    size="large"
+    type="text"
+    value={null}
+  />
+  <Input
+    disabled={false}
+    placeholder="Latin"
+    prefixCls="ant-input"
+    size="large"
+    type="text"
+    value={null}
+  />
+</OneColumnThin>
+`;
